@@ -33,6 +33,28 @@ Actualmente trabajo con **React, JavaScript y buenas prácticas de diseño**, en
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,mysql,git,github,vite,vercel,figma" />
 </p>
 
+## 🏆 Certificaciones
+
+<p align="center">
+  <a href="https://profiles.badgeclaimed.com/user-7163/badges/urn:uuid:e4a9ed5c-32e3-4df3-a1f9-a098517ab85f.html" target="_blank">
+    <img src="https://profiles.badgeclaimed.com/assets/badges/e4a9ed5c-32e3-4df3-a1f9-a098517ab85f.png" width="300" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Full Stack Empresarial con Spring Boot y Angular</strong><br>
+  <em>Badge Claimed - Dev Senior Code 🎓</em>
+</p>
+
+### Skills certificadas:
+
+- ✅ Arquitectura de aplicaciones empresariales  
+- ✅ Diseño e implementación de APIs REST  
+- ✅ Java & Spring Boot (JPA, Security)  
+- ✅ Angular (componentes, routing, RxJS)  
+- ✅ Integración de IA en aplicaciones  
+
+
 ## ⭐ Proyectos Destacados
 
 ### 🔸 🛍️ Lociones Online – E-commerce  
@@ -60,22 +82,6 @@ Enfocado en experiencia de usuario y diseño moderno.
 Aplicación enfocada en prácticas de seguridad, análisis de vulnerabilidades y autenticación segura.  
 Incluye buenas prácticas de **OWASP**, hashing, encriptación y manejo de roles.  
 👉 **Link plataforma:** https://ciber-segura.vercel.app/
-
-
-## 📊 Mis estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=JuanG202&show_icons=true&theme=react&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=JuanG202&layout=compact&theme=react&hide_border=true" height="150"/>
-</p>
-
-
-## 🔥 Racha de contribuciones
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=JuanG202&theme=react&hide_border=true" alt="GitHub Streak" />
-</p>
-
 
 ## 💬 Frase que me representa
 
