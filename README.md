@@ -65,20 +65,17 @@ Incluye buenas prácticas de **OWASP**, hashing, encriptación y manejo de roles
 ## 📊 Mis estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanG202&show_icons=true&theme=react&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanG202&layout=compact&theme=react&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=JuanG202&show_icons=true&theme=react&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=JuanG202&layout=compact&theme=react&hide_border=true" height="150"/>
 </p>
 
----
 
 ## 🔥 Racha de contribuciones
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JuanG202&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=JuanG202&theme=react&hide_border=true" alt="GitHub Streak" />
 </p>
 
-
----
 
 ## 💬 Frase que me representa
 
