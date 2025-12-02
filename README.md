@@ -37,7 +37,7 @@ Actualmente trabajo con **React, JavaScript y buenas prácticas de diseño**, en
 
 <p align="center">
   <a href="https://profiles.badgeclaimed.com/user-7163/badges/urn:uuid:e4a9ed5c-32e3-4df3-a1f9-a098517ab85f.html" target="_blank">
-    <img src="https://profiles.badgeclaimed.com/assets/badges/e4a9ed5c-32e3-4df3-a1f9-a098517ab85f.png" width="300" />
+    <img src="https://raw.githubusercontent.com/JuanG202/TU_REPO/main/badge-spring-angular.png" width="300" />
   </a>
 </p>
 
@@ -53,6 +53,7 @@ Actualmente trabajo con **React, JavaScript y buenas prácticas de diseño**, en
 - ✅ Java & Spring Boot (JPA, Security)  
 - ✅ Angular (componentes, routing, RxJS)  
 - ✅ Integración de IA en aplicaciones  
+
 
 
 ## ⭐ Proyectos Destacados
