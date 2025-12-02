@@ -33,35 +33,33 @@ Actualmente trabajo con **React, JavaScript y buenas prácticas de diseño**, en
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,mysql,git,github,vite,vercel,figma" />
 </p>
 
----
-
 ## ⭐ Proyectos Destacados
 
 ### 🔸 🛍️ Lociones Online – E-commerce  
 Plataforma de venta de fragancias con carrito de compras, catálogo dinámico y experiencia responsiva.  
 Desarrollada en **React + JavaScript** con integración a backend.  
-👉 *Link plataforma:* `[Lociones_Online](https://lociones-granja.vercel.app)`
+👉 **Link plataforma:** https://lociones-granja.vercel.app
 
 ---
 
 ### 🔸 🗓️ CitaMed – Gestión de Citas Médicas  
 Aplicación para gestionar citas, médicos, pacientes y reportes.  
 Desarrollada con **React + Backend Express**.  
-👉 *Link plataforma:* `[CitaMed](https://citamedfront.vercel.app/)`
+👉 **Link plataforma:** https://citamedfront.vercel.app/
 
 ---
 
 ### 🔸 ⚙️ El Mundo de la Tecnología – Portal Web Informativo  
 Sitio web con secciones dinámicas, blog, galería de imágenes y menú interactivo.  
 Enfocado en experiencia de usuario y diseño moderno.  
-👉 *Link plataforma:* `[El_Mundo_De_La_Tecnologia](https://elmundodelatecnologiaf.vercel.app/)`
+👉 **Link plataforma:** https://elmundodelatecnologiaf.vercel.app/
 
 ---
 
 ### 🔸 🛡️ Proyecto de Ciberseguridad  
 Aplicación enfocada en prácticas de seguridad, análisis de vulnerabilidades y autenticación segura.  
 Incluye buenas prácticas de **OWASP**, hashing, encriptación y manejo de roles.  
-👉 *Repositorio:* `[Ciberseguridad_Project](https://ciber-segura.vercel.app/)`
+👉 **Link plataforma:** https://ciber-segura.vercel.app/
 
 
 ## 📊 Mis estadísticas
@@ -76,8 +74,9 @@ Incluye buenas prácticas de **OWASP**, hashing, encriptación y manejo de roles
 ## 🔥 Racha de contribuciones
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JuanG202&theme=react&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=JuanG202&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
+
 
 ---
 
