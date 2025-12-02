@@ -37,7 +37,7 @@ Actualmente trabajo con **React, JavaScript y buenas prácticas de diseño**, en
 
 <p align="center">
   <a href="https://profiles.badgeclaimed.com/user-7163/badges/urn:uuid:e4a9ed5c-32e3-4df3-a1f9-a098517ab85f.html" target="_blank">
-    <img src="[https://raw.githubusercontent.com/JuanG202/JuanG202/main/badge-spring-angular.png](https://github.com/JuanG202/JuanG202/blob/main/badge-spring-angular.png)" width="300" />
+    <img src="[https://raw.githubusercontent.com/JuanG202/JuanG202/main/badge-spring-angular.png](https://github.com/JuanG202/JuanG202/blob/main/badge-spring-angular.png" width="300" />
   </a>
 </p>
 
