@@ -59,7 +59,7 @@ Actualmente trabajo con **React, JavaScript y buenas prácticas de diseño**, en
 
 ### 🔸 🛍️ Lociones Online – E-commerce  
 Plataforma de venta de fragancias con carrito de compras, catálogo dinámico y experiencia responsiva.  
-Desarrollada en **React + JavaScript** con integración a backend.  
+Desarrollada en **HTML + JavaScript** con integración a backend.  
 👉 **Link plataforma:** https://lociones-granja.vercel.app
 
 ---
