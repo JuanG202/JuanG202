@@ -37,23 +37,32 @@ Actualmente trabajo con **React, JavaScript y buenas prácticas de diseño**, en
 
 ## ⭐ Proyectos Destacados
 
-### 🔸 🧮 Calculadora Front  
-Aplicación interactiva hecha en **React**, con lógica optimizada y diseño responsivo.  
-👉 *Repositorio:* `Calculadora_Front`
+### 🔸 🛍️ Lociones Online – E-commerce  
+Plataforma de venta de fragancias con carrito de compras, catálogo dinámico y experiencia responsiva.  
+Desarrollada en **React + JavaScript** con integración a backend.  
+👉 *Link plataforma:* `[Lociones_Online](https://lociones-granja.vercel.app)`
 
 ---
 
-### 🔸 📨 Envío de Correos con Python  
-Proyecto completo que envía correos desde Python con interfaz Tkinter.  
-👉 *Repositorio:* `Envio_Correo`
+### 🔸 🗓️ CitaMed – Gestión de Citas Médicas  
+Aplicación para gestionar citas, médicos, pacientes y reportes.  
+Desarrollada con **React + Backend Express**.  
+👉 *Link plataforma:* `[CitaMed](https://citamedfront.vercel.app/)`
 
 ---
 
-### 🔸 ⭐ Registro de Actividades  
-App para organizar tareas con interfaz amigable y diseño limpio.  
-👉 *Repositorio:* `Tareas_Realizadas`
+### 🔸 ⚙️ El Mundo de la Tecnología – Portal Web Informativo  
+Sitio web con secciones dinámicas, blog, galería de imágenes y menú interactivo.  
+Enfocado en experiencia de usuario y diseño moderno.  
+👉 *Link plataforma:* `[El_Mundo_De_La_Tecnologia](https://elmundodelatecnologiaf.vercel.app/)`
 
 ---
+
+### 🔸 🛡️ Proyecto de Ciberseguridad  
+Aplicación enfocada en prácticas de seguridad, análisis de vulnerabilidades y autenticación segura.  
+Incluye buenas prácticas de **OWASP**, hashing, encriptación y manejo de roles.  
+👉 *Repositorio:* `[Ciberseguridad_Project](https://ciber-segura.vercel.app/)`
+
 
 ## 📊 Mis estadísticas
 
